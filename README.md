@@ -1,3 +1,5 @@
+<div align=center>
+  
 ### yeonjaedev 👋
 
 <a href="https://github.com/yeonjaedev" rel="nofollow"><img src="https://camo.githubusercontent.com/ec8c9098252c22dcf5c46d49db2e7739af5e63fc51a8285475c4e660b14ceb4f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f5265636f72642d3232323232323f7374796c653d666c6174266c6f676f3d676974687562266c696e6b3d68747470733a2f2f6b696d323873792e6769746875622e696f" data-canonical-src="http://img.shields.io/badge/Record-222222?style=flat&amp;logo=github&amp;link=https://kim28sy.github.io" style="max-width: 100%;"></a>
@@ -26,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div
