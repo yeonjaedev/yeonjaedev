@@ -4,6 +4,11 @@
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/yeonjaedev)](https://github.com/yeonjaedev)
 
+[![Tistory Badge](http://img.shields.io/badge/-Tistory-blue?style=flat-square&logo=tistory&link=https://yjae-sw.tistory.com/)](https://yjae-sw.tistory.com/)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjae47@gmail.com)](mailto:yjae47@gmail.com)
+
+
 <a href="https://github.com/yeonjaedev" rel="nofollow"><img src="https://camo.githubusercontent.com/ec8c9098252c22dcf5c46d49db2e7739af5e63fc51a8285475c4e660b14ceb4f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f5265636f72642d3232323232323f7374796c653d666c6174266c6f676f3d676974687562266c696e6b3d68747470733a2f2f6b696d323873792e6769746875622e696f" data-canonical-src="http://img.shields.io/badge/Record-222222?style=flat&amp;logo=github&amp;link=https://kim28sy.github.io" style="max-width: 100%;"></a>
 <a href="https://yjae-sw.tistory.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/5c4a1570f73ce31f6ef71c3043bcc94d0339369363a3dc361ce608bb8f7efe9b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f426c6f672d3030303030303f7374796c653d666c6174266c6f676f3d546973746f7279266c696e6b3d68747470733a2f2f68747470733a2f2f6b696d32323873792e746973746f72792e636f6d2f" data-canonical-src="http://img.shields.io/badge/Blog-000000?style=flat&amp;logo=Tistory&amp;link=https://https://kim228sy.tistory.com/" style="max-width: 100%;"></a>
 <a href="mailto:yjae47@gmail.com"><img src="https://camo.githubusercontent.com/65105a5733cdcb5df5c941993466ceab177317f85191a6b5af21a441a3ab3e6b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4541343333353f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6b696d3238737940676d61696c2e636f6d" data-canonical-src="https://img.shields.io/badge/Gmail-EA4335?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:kim28sy@gmail.com" style="max-width: 100%;"></a>
