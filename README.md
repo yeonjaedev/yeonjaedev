@@ -2,7 +2,7 @@
   
 ### yeonjaedev 👋
 
-[![Github Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/yeonjaedev)](https://github.com/yeonjaedev)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/yeonjaedev)](https://github.com/yeonjaedev)
 
 <a href="https://github.com/yeonjaedev" rel="nofollow"><img src="https://camo.githubusercontent.com/ec8c9098252c22dcf5c46d49db2e7739af5e63fc51a8285475c4e660b14ceb4f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f5265636f72642d3232323232323f7374796c653d666c6174266c6f676f3d676974687562266c696e6b3d68747470733a2f2f6b696d323873792e6769746875622e696f" data-canonical-src="http://img.shields.io/badge/Record-222222?style=flat&amp;logo=github&amp;link=https://kim28sy.github.io" style="max-width: 100%;"></a>
 <a href="https://yjae-sw.tistory.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/5c4a1570f73ce31f6ef71c3043bcc94d0339369363a3dc361ce608bb8f7efe9b/687474703a2f2f696d672e736869656c64732e696f2f62616467652f426c6f672d3030303030303f7374796c653d666c6174266c6f676f3d546973746f7279266c696e6b3d68747470733a2f2f68747470733a2f2f6b696d32323873792e746973746f72792e636f6d2f" data-canonical-src="http://img.shields.io/badge/Blog-000000?style=flat&amp;logo=Tistory&amp;link=https://https://kim228sy.tistory.com/" style="max-width: 100%;"></a>
